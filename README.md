@@ -33,8 +33,4 @@ If the user inputs **"The Dark Knight"**, the system might recommend:
 - Scikit-learn
 - NLTK (for optional text preprocessing)
 - Streamlit (for interface, if applicable)
-
-## 📁 Dataset
-
-Used The Movie Database (TMDb) dataset with fields like:
-- `title`, `overview`, `genres`, `keywords`, `cast`, `crew`, etc.
+----
